@@ -1,0 +1,2 @@
+pair,selected_model,regularization,n_train,n_test,n_features,beta_norm_sq,n_nonzero
+A,ridge,2.0,600,1000,600,0.10801105209141192,600

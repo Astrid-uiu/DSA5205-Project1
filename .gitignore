@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Matplotlib
+.matplotlib/
+
+# VS Code
+.vscode/
+
+# Course / reference PDFs
+DSA5205Fall2026Project1.pdf
+The Virtue of Complexity in Return Prediction.pdf
+NeurIPS-2025-*.pdf
+
+# Temporary files
+*.tmp
+*.log
+
+# Task 3 course-provided datasets
+pairA_train.csv
+pairA_test_features.csv
+pairB_train.csv
+pairB_test_features.csv
+pairC_train.csv
+pairC_test_features.csv

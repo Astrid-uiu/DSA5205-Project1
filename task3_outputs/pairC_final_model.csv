@@ -1,0 +1,2 @@
+pair,selected_model,regularization,n_train,n_test,n_features,beta_norm_sq,n_nonzero
+C,lasso,0.2,360,2000,1800,0.00015772908321959921,1
